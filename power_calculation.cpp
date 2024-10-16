@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Recursive function to calculate power
+// Recursive function to calculate power.
 double power(double b, int e) 
 {
     // Base case: if exponent is 0, return 1
