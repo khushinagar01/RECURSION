@@ -7,7 +7,7 @@ int binaryToDecimal(int binary,int base=1)
     if(binary==0)
      return 0;
     
-    //GET THE LAST DIGIT
+    //GET THE LAST DIGIT.
     int lastDigit=binary%10;
    
     //RECURSIVE CALL
