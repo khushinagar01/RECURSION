@@ -7,7 +7,7 @@ int arraySum(int arr[],int n)
     {
         return 0;
     }
-    //RECURSIVE CASE
+    //RECURSIVE CASE.
     return arr[n-1] + arraySum(arr,n-1);
 }
 int main()
