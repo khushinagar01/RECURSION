@@ -2,7 +2,7 @@
 using namespace std;
 int sumOfDigit(int n)
 {  
-    //Base case :return 0 if the number is 0
+    //Base case :return 0 if the number is 0.
     if(n==0)
     {
         return 0;
