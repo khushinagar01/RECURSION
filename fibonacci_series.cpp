@@ -3,7 +3,7 @@ using namespace std;
 //Recursive funtion to find the nth fibonacci number
 int fib(int n)
 {   
-    //Base case
+    //Base case.
 
     if(n==0)
     {
