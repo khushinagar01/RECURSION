@@ -6,7 +6,7 @@ int gcd(int a, int b)
     if(b==0)
      return a;
     
-    //RECURSIVE CASE
+    //RECURSIVE CASE.
     return gcd(b,a%b);
 }
 
